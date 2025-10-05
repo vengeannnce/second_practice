@@ -1,0 +1,14 @@
+C:\Users\aduda\OneDrive\Рабочий стол\second_practice\t7\bin\Debug\net9.0\t7.exe
+C:\Users\aduda\OneDrive\Рабочий стол\second_practice\t7\bin\Debug\net9.0\t7.deps.json
+C:\Users\aduda\OneDrive\Рабочий стол\second_practice\t7\bin\Debug\net9.0\t7.runtimeconfig.json
+C:\Users\aduda\OneDrive\Рабочий стол\second_practice\t7\bin\Debug\net9.0\t7.dll
+C:\Users\aduda\OneDrive\Рабочий стол\second_practice\t7\bin\Debug\net9.0\t7.pdb
+C:\Users\aduda\OneDrive\Рабочий стол\second_practice\t7\obj\Debug\net9.0\t7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aduda\OneDrive\Рабочий стол\second_practice\t7\obj\Debug\net9.0\t7.AssemblyInfoInputs.cache
+C:\Users\aduda\OneDrive\Рабочий стол\second_practice\t7\obj\Debug\net9.0\t7.AssemblyInfo.cs
+C:\Users\aduda\OneDrive\Рабочий стол\second_practice\t7\obj\Debug\net9.0\t7.csproj.CoreCompileInputs.cache
+C:\Users\aduda\OneDrive\Рабочий стол\second_practice\t7\obj\Debug\net9.0\t7.dll
+C:\Users\aduda\OneDrive\Рабочий стол\second_practice\t7\obj\Debug\net9.0\refint\t7.dll
+C:\Users\aduda\OneDrive\Рабочий стол\second_practice\t7\obj\Debug\net9.0\t7.pdb
+C:\Users\aduda\OneDrive\Рабочий стол\second_practice\t7\obj\Debug\net9.0\t7.genruntimeconfig.cache
+C:\Users\aduda\OneDrive\Рабочий стол\second_practice\t7\obj\Debug\net9.0\ref\t7.dll
